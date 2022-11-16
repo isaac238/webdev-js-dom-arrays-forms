@@ -3,7 +3,8 @@ body {
   font-size: 1em;
   margin: 0;
   padding: 0;
-  color: #000;
+  color: #fff;
+  background-color: #163b59;
 }
 #container {
   width: 100%;
@@ -29,7 +30,7 @@ header h1 {
   padding: 5px;
 }
 nav {
-  background-color: #d58b53;
+  background-color: #5383d5;
 }
 nav ul {
   list-style: none;
@@ -53,7 +54,7 @@ nav ul li a {
   padding: 8px 0;
 }
 .currentPage {
-  background-color: #f9d3b4;
+  background-color: #b4f4f9;
 }
 .currentPage a {
   color: #000;
@@ -77,13 +78,15 @@ nav ul li a {
 }
 .redBack {
   background-color: #be1c26;
+  color: #000;
 }
 .greenBack {
   background-color: #398d38;
+  color: #000;
 }
-.blueBack {
-  background-color: #163b59;
-  color: #fff;
+.whiteBack {
+  background-color: #ffffff;
+  color: #000;
 }
 .error {
   color: #be1c26;

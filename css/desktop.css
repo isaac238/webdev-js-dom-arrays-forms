@@ -9,7 +9,7 @@ h2 {
   min-width: 600px;
 }
 header {
-  background-image: url(../images/top-banner-desktop.jpg);
+  background-image: url(../images/gawr_final.jpg);
   height: 300px;
   padding-left: 0;
 }
@@ -22,7 +22,7 @@ header h1 {
   display: inline;
 }
 nav li a:hover {
-  color: #e8ff7f;
+  color: #7fc1ff;
   text-decoration: underline;
 }
 nav ul {
